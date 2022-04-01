@@ -44,13 +44,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 The only resource i used for this game was the tutorial page, i tried making the game my own but failed.
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 One challenge that I had is I was trying to create the game by myself from scratch with no help, so I got the four buttons and they were lighting them up but after that, I wanted to put the cue inside of a for loop so that it runs in a sequence, but when I did it it was playing two colors instead of one and by removing the for loop it went back to just playing one. What I did to solve this was to look at the tutorial website and it helped me a lot, especially the playClueSequence function.
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission? 
 I haven't been doing web development that often since in my school I have been focussing on Python and C++. But if I get hired will I be doing web development? Will I learn new technologies like React, Vue.Js? I wish to discover new ways in which things can be done. 
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 I would probably make 2 players compete, i added the difficulty levels which makes the pattern random and increase the length in the pattern depending on the difficulty. 
 Also would like to animate each of the buttons 
 
