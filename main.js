@@ -1,6 +1,6 @@
 function generateArray(n){
     for(var x = 0;x<=n;x++){
-        pattern[x] = (Math.floor(Math.random() * 4) +1)
+        pattern[x] = (Math.floor(Math.random() * 6) +1)
     }
     console.log(pattern)
 }
@@ -12,13 +12,13 @@ function startGame(){
     var value = diff.options[diff.selectedIndex].value;
     switch (value){
         case 'easy':
-            generateArray(5)
+            generateArray(4)
             break;
         case 'normal':
-            generateArray(10)
+            generateArray(9)
             break
         case 'hard':
-            generateArray(15)
+            generateArray(14)
             break
     }
     elem.innerHTML = `${tries} tries`
@@ -95,7 +95,7 @@ function guess(btn){
             elem.innerHTML = `${tries} tries`
         }
         else{
-            
+            alert(`Wrong one you have ${tries} left`)
             elem.innerHTML = `Wrong one you have ${tries} left`
             playClueSequence();
         }

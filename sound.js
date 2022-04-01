@@ -1,9 +1,11 @@
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
-  4: 466.2
+  1: 750,
+  2: 800,
+  3: 850,
+  4: 900,
+  5:950,
+  6:1000
 }
 var pattern = [],
 progress = 0,
