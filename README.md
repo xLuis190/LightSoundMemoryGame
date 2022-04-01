@@ -57,7 +57,7 @@ Also would like to animate each of the buttons
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1f7Ot1crR-Nu6aVHiaIUCxlqYs-nRTag3/view?usp=sharing)
+My 5-minute Interview Recording https://drive.google.com/file/d/1f7Ot1crR-Nu6aVHiaIUCxlqYs-nRTag3/view?usp=sharing
 
 
 ## License
