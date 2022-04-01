@@ -4,7 +4,7 @@
 
 Submitted by: Luis Felipe Jimenez Ferreira
 
-Time spent: 5 hours spent in total
+Time spent: 5-6 hours spent in total
 
 Link to project: https://github.com/xLuis190/LightSoundMemoryGame
 
@@ -57,7 +57,7 @@ Also would like to animate each of the buttons
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1f7Ot1crR-Nu6aVHiaIUCxlqYs-nRTag3/view?usp=sharing)
 
 
 ## License
