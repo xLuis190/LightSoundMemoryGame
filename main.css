@@ -6,7 +6,7 @@ body{
     height: 20rem;
     width: 20rem;
     display: -webkit-inline-box;
-    margin: 0 5rem 2rem  5rem;
+    margin: 0 2rem 2rem  5rem;
     transform: translateY(5rem);
     border-radius: 5%;
 }
